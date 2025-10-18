@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Run buffer",
+            "request": "launch",
+            "mainClass": "buffer",
+            "projectName": "JAVA PROJECT_325cccf"
+        }
+    ]
+}
